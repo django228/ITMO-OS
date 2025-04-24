@@ -1,2 +1,2 @@
 # ITMO-OS-Lab5
-lab5 IS ITMO y25
+Operating system labs for IS ITMO y25

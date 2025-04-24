@@ -1,0 +1,67 @@
+    565 /usr/lib/systemd/systemd --user
+    568 (sd-pam)
+    582 /usr/bin/kwalletd6 --pam-login 12 13
+    583 /usr/bin/startplasma-x11
+    597 /usr/bin/dbus-broker-launch --scope user
+    598 dbus-broker --log 4 --controller 10 --machine-id cb8277205b2b428987718f0f8b72faa1 --max-bytes 100000000000000 --max-fds 25000000000000 --max-matches 5000000000
+    612 /usr/lib/kglobalacceld
+    617 /usr/lib/kf6/baloo_file
+    623 /usr/lib/xdg-desktop-portal
+    631 /usr/lib/xdg-document-portal
+    640 /usr/lib/xdg-permission-store
+    653 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+    675 /usr/bin/ksmserver
+    677 /usr/bin/kded6
+    678 /usr/bin/kwin_x11 --replace
+    725 /usr/bin/plasmashell --no-respawn
+    739 /usr/lib/dconf-service
+    765 /usr/lib/kactivitymanagerd
+    767 /usr/bin/gmenudbusmenuproxy
+    768 /usr/bin/kaccess
+    769 /usr/lib/polkit-kde-authentication-agent-1
+    770 /usr/lib/org_kde_powerdevil
+    771 /usr/lib/xdg-desktop-portal-kde
+    772 /usr/bin/xembedsniproxy
+    781 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+    815 /usr/lib/pulse/gsettings-helper
+    874 /usr/bin/pipewire
+    875 /usr/bin/wireplumber
+    907 /usr/bin/xsettingsd
+    909 /usr/lib/kf6/kscreen_backend_launcher
+    960 /usr/lib/nekobox/nekobox -tray -appdata
+    964 /usr/bin/kdeconnectd
+    980 /usr/lib/DiscoverNotifier
+   1080 /usr/lib/nekobox/nekobox_core nekobox -port 38311
+   1219 /opt/google/chrome/chrome
+   1223 cat
+   1224 cat
+   1226 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/django/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Arch Linux --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=133.0.6943.53 --initial-client-fd=5 --shared-client-connection
+   1228 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/django/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Arch Linux --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=133.0.6943.53 --initial-client-fd=4 --shared-client-connection
+   1234 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+   1235 /opt/google/chrome/chrome --type=zygote --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+   1237 /opt/google/chrome/chrome --type=zygote --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+   1248 /usr/bin/konsole
+   1301 /opt/google/chrome/chrome --type=gpu-process --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1305 /bin/zsh
+   1319 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1349 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=utility --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1407 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=66839854 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1458 /usr/lib/at-spi-bus-launcher
+   1466 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=21 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=67509728 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1485 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=32 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=67636487 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1509 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=28 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=67814398 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1599 /usr/bin/plasma-browser-integration-host chrome-extension://cimiefiiaegbelhefglklhhakcgmhkai/
+   1619 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=15 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=69146495 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1634 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=37 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=69292063 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1678 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=40 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=70470296 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1750 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=77157168 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   1768 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=79044574 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   2035 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=52 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=248331740 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   2188 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=ru --service-sandbox-type=none --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   2741 /usr/bin/dolphin
+   4270 /usr/bin/telegram-desktop
+   4583 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=66 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=1148082797 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+   5226 kate VII.sh
+  12499 /opt/google/chrome/chrome --type=renderer --string-annotations --crashpad-handler-pid=1226 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=81 --time-ticks-at-unix-epoch=-1741881819940404 --launch-time-ticks=2348286616 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,9827046585621281181,16589456005518651062,262144 --variations-seed-version=20250312-184628.452000
+  12655 sudo ./I.sh
+  12660 sudo ./I.sh

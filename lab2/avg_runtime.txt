@@ -1,0 +1,255 @@
+ProcessID=1 : Parent_ProcessID=0 : Average_Running_Time=.49517100886714569637 : Nice_value=  0
+ProcessID=10 : Parent_ProcessID=2 : Average_Running_Time=.02446913389687715943 : Nice_value=  0
+ProcessID=103 : Parent_ProcessID=2 : Average_Running_Time=.02975124592452675235 : Nice_value=-20
+ProcessID=1080 : Parent_ProcessID=960 : Average_Running_Time=.77457861111111111111 : Nice_value=  0
+ProcessID=12 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=1219 : Parent_ProcessID=565 : Average_Running_Time=.50051045534226874138 : Nice_value=  0
+ProcessID=1223 : Parent_ProcessID=1219 : Average_Running_Time=.92358480000000000000 : Nice_value=  0
+ProcessID=1224 : Parent_ProcessID=1219 : Average_Running_Time=.10890689189189189189 : Nice_value=  0
+ProcessID=1226 : Parent_ProcessID=565 : Average_Running_Time=1.18536162500000000000 : Nice_value=  0
+ProcessID=1228 : Parent_ProcessID=565 : Average_Running_Time=1.76598933333333333333 : Nice_value=  0
+ProcessID=1234 : Parent_ProcessID=1219 : Average_Running_Time=2.67383583928571428571 : Nice_value=  0
+ProcessID=1235 : Parent_ProcessID=1219 : Average_Running_Time=1.93357029870129870129 : Nice_value=  0
+ProcessID=1237 : Parent_ProcessID=1235 : Average_Running_Time=.43813297008547008547 : Nice_value=  0
+ProcessID=12941 : Parent_ProcessID=2 : Average_Running_Time=.08504817557251908396 : Nice_value=  0
+ProcessID=1301 : Parent_ProcessID=1234 : Average_Running_Time=.44746508260996484204 : Nice_value=  0
+ProcessID=1319 : Parent_ProcessID=1219 : Average_Running_Time=.65079644683393070489 : Nice_value=  0
+ProcessID=132 : Parent_ProcessID=2 : Average_Running_Time=.03003922085585362225 : Nice_value=-20
+ProcessID=1349 : Parent_ProcessID=1237 : Average_Running_Time=.17603107520661157024 : Nice_value=  0
+ProcessID=14 : Parent_ProcessID=2 : Average_Running_Time=.00679960000000000000 : Nice_value=  0
+ProcessID=1407 : Parent_ProcessID=1237 : Average_Running_Time=.29062306539196940726 : Nice_value=  0
+ProcessID=1455 : Parent_ProcessID=2 : Average_Running_Time=.09113106801046915895 : Nice_value=  0
+ProcessID=1458 : Parent_ProcessID=565 : Average_Running_Time=.21998338281250000000 : Nice_value=  0
+ProcessID=1466 : Parent_ProcessID=1237 : Average_Running_Time=.39721101646273637374 : Nice_value=  0
+ProcessID=1485 : Parent_ProcessID=1237 : Average_Running_Time=.31352826854219948849 : Nice_value=  0
+ProcessID=15 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=  0
+ProcessID=1509 : Parent_ProcessID=1237 : Average_Running_Time=1.37655884228187919463 : Nice_value=  0
+ProcessID=1599 : Parent_ProcessID=1219 : Average_Running_Time=.09593477200577200577 : Nice_value=  0
+ProcessID=16 : Parent_ProcessID=2 : Average_Running_Time=.00173250000000000000 : Nice_value=  0
+ProcessID=1619 : Parent_ProcessID=1237 : Average_Running_Time=.66114501499013806706 : Nice_value=  0
+ProcessID=1634 : Parent_ProcessID=1237 : Average_Running_Time=.33719168363636363636 : Nice_value=  0
+ProcessID=1678 : Parent_ProcessID=1237 : Average_Running_Time=.32600271278195488721 : Nice_value=  0
+ProcessID=17 : Parent_ProcessID=2 : Average_Running_Time=.02297168744757339724 : Nice_value=  0
+ProcessID=172 : Parent_ProcessID=2 : Average_Running_Time=.02740400000000000000 : Nice_value=-20
+ProcessID=173 : Parent_ProcessID=2 : Average_Running_Time=.02876772826086956521 : Nice_value=  -
+ProcessID=174 : Parent_ProcessID=2 : Average_Running_Time=.00299650000000000000 : Nice_value=  -
+ProcessID=175 : Parent_ProcessID=2 : Average_Running_Time=.00284900000000000000 : Nice_value=  -
+ProcessID=1750 : Parent_ProcessID=1237 : Average_Running_Time=1.65077851863636363636 : Nice_value=  0
+ProcessID=1768 : Parent_ProcessID=1237 : Average_Running_Time=1.11896083031496062992 : Nice_value=  0
+ProcessID=18 : Parent_ProcessID=2 : Average_Running_Time=.01595043744479474929 : Nice_value=  -
+ProcessID=19 : Parent_ProcessID=2 : Average_Running_Time=.02122726213592233009 : Nice_value=  -
+ProcessID=19242 : Parent_ProcessID=1237 : Average_Running_Time=1.19408960449197860962 : Nice_value=  0
+ProcessID=19339 : Parent_ProcessID=2 : Average_Running_Time=.03085813029576338928 : Nice_value=  0
+ProcessID=19565 : Parent_ProcessID=565 : Average_Running_Time=.27363755121166224914 : Nice_value=  0
+ProcessID=2 : Parent_ProcessID=0 : Average_Running_Time=.03803046721311475409 : Nice_value=  0
+ProcessID=20 : Parent_ProcessID=2 : Average_Running_Time=.00146150000000000000 : Nice_value=  0
+ProcessID=21 : Parent_ProcessID=2 : Average_Running_Time=.01645012186978297161 : Nice_value=  0
+ProcessID=2188 : Parent_ProcessID=1219 : Average_Running_Time=.21877939164490861618 : Nice_value=  0
+ProcessID=22 : Parent_ProcessID=2 : Average_Running_Time=.01518323151308304891 : Nice_value=  -
+ProcessID=23 : Parent_ProcessID=2 : Average_Running_Time=.00215633333333333333 : Nice_value=  -
+ProcessID=232 : Parent_ProcessID=2 : Average_Running_Time=.00821850000000000000 : Nice_value=-20
+ProcessID=233 : Parent_ProcessID=2 : Average_Running_Time=.00878650000000000000 : Nice_value=-20
+ProcessID=234 : Parent_ProcessID=2 : Average_Running_Time=.00853750000000000000 : Nice_value=-20
+ProcessID=235 : Parent_ProcessID=2 : Average_Running_Time=.00551400000000000000 : Nice_value=-20
+ProcessID=23552 : Parent_ProcessID=2 : Average_Running_Time=.03179750473684436450 : Nice_value=  0
+ProcessID=236 : Parent_ProcessID=2 : Average_Running_Time=.00444400000000000000 : Nice_value=-20
+ProcessID=237 : Parent_ProcessID=2 : Average_Running_Time=.00423350000000000000 : Nice_value=-20
+ProcessID=238 : Parent_ProcessID=2 : Average_Running_Time=.00428600000000000000 : Nice_value=-20
+ProcessID=239 : Parent_ProcessID=2 : Average_Running_Time=.00435750000000000000 : Nice_value=-20
+ProcessID=24 : Parent_ProcessID=2 : Average_Running_Time=.06223004166666666666 : Nice_value=  0
+ProcessID=240 : Parent_ProcessID=2 : Average_Running_Time=.00423850000000000000 : Nice_value=-20
+ProcessID=241 : Parent_ProcessID=2 : Average_Running_Time=.00429900000000000000 : Nice_value=-20
+ProcessID=242 : Parent_ProcessID=2 : Average_Running_Time=.00423200000000000000 : Nice_value=-20
+ProcessID=243 : Parent_ProcessID=2 : Average_Running_Time=.00423600000000000000 : Nice_value=-20
+ProcessID=244 : Parent_ProcessID=2 : Average_Running_Time=.00420350000000000000 : Nice_value=-20
+ProcessID=245 : Parent_ProcessID=2 : Average_Running_Time=.01602402868852459016 : Nice_value=  0
+ProcessID=246 : Parent_ProcessID=2 : Average_Running_Time=.76531578602572487464 : Nice_value=  0
+ProcessID=25 : Parent_ProcessID=2 : Average_Running_Time=.03192509090909090909 : Nice_value=  0
+ProcessID=2535 : Parent_ProcessID=2 : Average_Running_Time=.08593539942202497677 : Nice_value=  0
+ProcessID=26 : Parent_ProcessID=2 : Average_Running_Time=.00213580000000000000 : Nice_value=  -
+ProcessID=27 : Parent_ProcessID=2 : Average_Running_Time=.12100950407925407925 : Nice_value=  -
+ProcessID=2741 : Parent_ProcessID=565 : Average_Running_Time=.26519261842776927003 : Nice_value=  0
+ProcessID=28 : Parent_ProcessID=2 : Average_Running_Time=.02154722517773964206 : Nice_value=  0
+ProcessID=28618 : Parent_ProcessID=2 : Average_Running_Time=.09720610948095179386 : Nice_value=  0
+ProcessID=28631 : Parent_ProcessID=2 : Average_Running_Time=.35688464285714285714 : Nice_value=  0
+ProcessID=290 : Parent_ProcessID=1 : Average_Running_Time=.43218672021066491112 : Nice_value=  0
+ProcessID=3 : Parent_ProcessID=2 : Average_Running_Time=.00968900000000000000 : Nice_value=  0
+ProcessID=30 : Parent_ProcessID=2 : Average_Running_Time=.00484350000000000000 : Nice_value=-20
+ProcessID=304 : Parent_ProcessID=2 : Average_Running_Time=.03632496071459651652 : Nice_value=  0
+ProcessID=307 : Parent_ProcessID=1 : Average_Running_Time=.73527623026315789473 : Nice_value=  0
+ProcessID=31 : Parent_ProcessID=2 : Average_Running_Time=.05111987500000000000 : Nice_value=  0
+ProcessID=32 : Parent_ProcessID=2 : Average_Running_Time=.00172940000000000000 : Nice_value=  -
+ProcessID=329 : Parent_ProcessID=2 : Average_Running_Time=.01776392857142857142 : Nice_value=  -
+ProcessID=33 : Parent_ProcessID=2 : Average_Running_Time=.12262292512077294685 : Nice_value=  -
+ProcessID=331 : Parent_ProcessID=1 : Average_Running_Time=.43953040978593272171 : Nice_value=  0
+ProcessID=337 : Parent_ProcessID=1 : Average_Running_Time=.66381017339097022094 : Nice_value=  0
+ProcessID=33757 : Parent_ProcessID=1237 : Average_Running_Time=1.19972936129753914988 : Nice_value=  0
+ProcessID=33828 : Parent_ProcessID=2 : Average_Running_Time=.05904858357128627398 : Nice_value=-20
+ProcessID=33843 : Parent_ProcessID=1237 : Average_Running_Time=1.03544327325581395348 : Nice_value=  0
+ProcessID=33886 : Parent_ProcessID=2 : Average_Running_Time=.04009062531958411453 : Nice_value=  0
+ProcessID=33939 : Parent_ProcessID=565 : Average_Running_Time=.57427855049293898214 : Nice_value=  0
+ProcessID=34 : Parent_ProcessID=2 : Average_Running_Time=.02044073415424497731 : Nice_value=  0
+ProcessID=340 : Parent_ProcessID=2 : Average_Running_Time=.02545192857142857142 : Nice_value=  -
+ProcessID=34050 : Parent_ProcessID=2 : Average_Running_Time=.02415941666666666666 : Nice_value=  0
+ProcessID=34481 : Parent_ProcessID=2 : Average_Running_Time=.03229465090820629257 : Nice_value=  0
+ProcessID=34551 : Parent_ProcessID=1237 : Average_Running_Time=1.08439889805996472663 : Nice_value=  0
+ProcessID=34627 : Parent_ProcessID=1237 : Average_Running_Time=1.48739040469597173876 : Nice_value=  0
+ProcessID=34638 : Parent_ProcessID=1237 : Average_Running_Time=1.38375193722943722943 : Nice_value=  0
+ProcessID=34651 : Parent_ProcessID=1237 : Average_Running_Time=.40597179759519038076 : Nice_value=  0
+ProcessID=34814 : Parent_ProcessID=2 : Average_Running_Time=.11802406024981631153 : Nice_value=  0
+ProcessID=34825 : Parent_ProcessID=2 : Average_Running_Time=.03746601798125358668 : Nice_value=  0
+ProcessID=34968 : Parent_ProcessID=2 : Average_Running_Time=.15254931578947368421 : Nice_value=  0
+ProcessID=34987 : Parent_ProcessID=2 : Average_Running_Time=.09456727272727272727 : Nice_value=  0
+ProcessID=35013 : Parent_ProcessID=2 : Average_Running_Time=.02343521936951576210 : Nice_value=-20
+ProcessID=35015 : Parent_ProcessID=2 : Average_Running_Time=.01869500000000000000 : Nice_value=  0
+ProcessID=35026 : Parent_ProcessID=2 : Average_Running_Time=.09653764063023801542 : Nice_value=  0
+ProcessID=35027 : Parent_ProcessID=2 : Average_Running_Time=.20565161111111111111 : Nice_value=  0
+ProcessID=35028 : Parent_ProcessID=2 : Average_Running_Time=.09067542857142857142 : Nice_value=  0
+ProcessID=35029 : Parent_ProcessID=2 : Average_Running_Time=.04706491666666666666 : Nice_value=  0
+ProcessID=35030 : Parent_ProcessID=2 : Average_Running_Time=.11384678378378378378 : Nice_value=  0
+ProcessID=35031 : Parent_ProcessID=2 : Average_Running_Time=.16732355555555555555 : Nice_value=  0
+ProcessID=35032 : Parent_ProcessID=2 : Average_Running_Time=.07225954166666666666 : Nice_value=  0
+ProcessID=35033 : Parent_ProcessID=2 : Average_Running_Time=.18903385454545454545 : Nice_value=  0
+ProcessID=35034 : Parent_ProcessID=2 : Average_Running_Time=.05638155555555555555 : Nice_value=  0
+ProcessID=35035 : Parent_ProcessID=2 : Average_Running_Time=.01043028571428571428 : Nice_value=  0
+ProcessID=35036 : Parent_ProcessID=2 : Average_Running_Time=.01581700000000000000 : Nice_value=  0
+ProcessID=35037 : Parent_ProcessID=2 : Average_Running_Time=.02088000000000000000 : Nice_value=  0
+ProcessID=35038 : Parent_ProcessID=2 : Average_Running_Time=.01528516666666666666 : Nice_value=  0
+ProcessID=35039 : Parent_ProcessID=2 : Average_Running_Time=.00508957142857142857 : Nice_value=  0
+ProcessID=35040 : Parent_ProcessID=2 : Average_Running_Time=.02076200000000000000 : Nice_value=  0
+ProcessID=35041 : Parent_ProcessID=2 : Average_Running_Time=.02477554545454545454 : Nice_value=  0
+ProcessID=35042 : Parent_ProcessID=2 : Average_Running_Time=.11580295744680851063 : Nice_value=  0
+ProcessID=35043 : Parent_ProcessID=2 : Average_Running_Time=.29671592307692307692 : Nice_value=  0
+ProcessID=35044 : Parent_ProcessID=2 : Average_Running_Time=.01549910000000000000 : Nice_value=  0
+ProcessID=35045 : Parent_ProcessID=2 : Average_Running_Time=.01665820000000000000 : Nice_value=  0
+ProcessID=35046 : Parent_ProcessID=2 : Average_Running_Time=.00970133333333333333 : Nice_value=  0
+ProcessID=35047 : Parent_ProcessID=2 : Average_Running_Time=.00802728571428571428 : Nice_value=  0
+ProcessID=35048 : Parent_ProcessID=2 : Average_Running_Time=.01030675000000000000 : Nice_value=  0
+ProcessID=35049 : Parent_ProcessID=2 : Average_Running_Time=.12612084272415482606 : Nice_value=  0
+ProcessID=35050 : Parent_ProcessID=2 : Average_Running_Time=.03713909090909090909 : Nice_value=  0
+ProcessID=35051 : Parent_ProcessID=2 : Average_Running_Time=.09367570795847750865 : Nice_value=  0
+ProcessID=35052 : Parent_ProcessID=2 : Average_Running_Time=.11571879720853858784 : Nice_value=  0
+ProcessID=35053 : Parent_ProcessID=2 : Average_Running_Time=.16025541993957703927 : Nice_value=  0
+ProcessID=35054 : Parent_ProcessID=2 : Average_Running_Time=.03249038095238095238 : Nice_value=  0
+ProcessID=35055 : Parent_ProcessID=2 : Average_Running_Time=.00421260000000000000 : Nice_value=  0
+ProcessID=35056 : Parent_ProcessID=2 : Average_Running_Time=.00462250000000000000 : Nice_value=  0
+ProcessID=35057 : Parent_ProcessID=2 : Average_Running_Time=.04265690476190476190 : Nice_value=  -
+ProcessID=35058 : Parent_ProcessID=2 : Average_Running_Time=.00864075000000000000 : Nice_value=  0
+ProcessID=35059 : Parent_ProcessID=2 : Average_Running_Time=.00521750000000000000 : Nice_value=  0
+ProcessID=35062 : Parent_ProcessID=2 : Average_Running_Time=.04343669629901361376 : Nice_value=  0
+ProcessID=35092 : Parent_ProcessID=565 : Average_Running_Time=.83152855757575757575 : Nice_value=  0
+ProcessID=35094 : Parent_ProcessID=2 : Average_Running_Time=.03836050000000000000 : Nice_value=-20
+ProcessID=35114 : Parent_ProcessID=1237 : Average_Running_Time=.63341394699646643109 : Nice_value=  0
+ProcessID=35176 : Parent_ProcessID=307 : Average_Running_Time=.95413863333333333333 : Nice_value=  0
+ProcessID=35306 : Parent_ProcessID=307 : Average_Running_Time=1.09797050000000000000 : Nice_value=  0
+ProcessID=35307 : Parent_ProcessID=307 : Average_Running_Time=.97322292307692307692 : Nice_value=  0
+ProcessID=36 : Parent_ProcessID=2 : Average_Running_Time=.00646725000000000000 : Nice_value=-20
+ProcessID=36808 : Parent_ProcessID=565 : Average_Running_Time=.96103034264150943396 : Nice_value=  0
+ProcessID=36832 : Parent_ProcessID=36808 : Average_Running_Time=1.78538849336870026525 : Nice_value=  0
+ProcessID=36915 : Parent_ProcessID=36832 : Average_Running_Time=.39981929536290322580 : Nice_value=  0
+ProcessID=37 : Parent_ProcessID=2 : Average_Running_Time=.03496300000000000000 : Nice_value=  0
+ProcessID=377 : Parent_ProcessID=2 : Average_Running_Time=.00751550000000000000 : Nice_value=-20
+ProcessID=38 : Parent_ProcessID=2 : Average_Running_Time=.00182720000000000000 : Nice_value=  -
+ProcessID=385 : Parent_ProcessID=2 : Average_Running_Time=.04418961769996876569 : Nice_value=  -
+ProcessID=39 : Parent_ProcessID=2 : Average_Running_Time=.11550176497175141242 : Nice_value=  -
+ProcessID=4 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=40 : Parent_ProcessID=2 : Average_Running_Time=.02950402155618002067 : Nice_value=  0
+ProcessID=406 : Parent_ProcessID=2 : Average_Running_Time=.00802300000000000000 : Nice_value=-20
+ProcessID=410 : Parent_ProcessID=2 : Average_Running_Time=.01827749447237576733 : Nice_value=  -
+ProcessID=411 : Parent_ProcessID=2 : Average_Running_Time=.00805150000000000000 : Nice_value=-20
+ProcessID=417 : Parent_ProcessID=2 : Average_Running_Time=.00918350000000000000 : Nice_value=-20
+ProcessID=42 : Parent_ProcessID=2 : Average_Running_Time=.00380450000000000000 : Nice_value=-20
+ProcessID=4270 : Parent_ProcessID=565 : Average_Running_Time=.43661141176050882700 : Nice_value=  0
+ProcessID=43 : Parent_ProcessID=2 : Average_Running_Time=.01806120080321285140 : Nice_value=  0
+ProcessID=44 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=447 : Parent_ProcessID=1 : Average_Running_Time=.18052252399481193255 : Nice_value=  0
+ProcessID=45 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=  0
+ProcessID=453 : Parent_ProcessID=447 : Average_Running_Time=.08989856389227780037 : Nice_value=  0
+ProcessID=454 : Parent_ProcessID=1 : Average_Running_Time=.47127847596055763345 : Nice_value=  0
+ProcessID=455 : Parent_ProcessID=1 : Average_Running_Time=.28256421064301552106 : Nice_value=  0
+ProcessID=456 : Parent_ProcessID=1 : Average_Running_Time=.30321896000000000000 : Nice_value=  0
+ProcessID=458 : Parent_ProcessID=1 : Average_Running_Time=.16085188601741022850 : Nice_value=  0
+ProcessID=4583 : Parent_ProcessID=1237 : Average_Running_Time=.83194648032786885245 : Nice_value=  0
+ProcessID=46 : Parent_ProcessID=2 : Average_Running_Time=.12904163043478260869 : Nice_value=  0
+ProcessID=47 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=  0
+ProcessID=49 : Parent_ProcessID=2 : Average_Running_Time=.00163300000000000000 : Nice_value=-20
+ProcessID=498 : Parent_ProcessID=1 : Average_Running_Time=.58948777203893996755 : Nice_value=  0
+ProcessID=5 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=50 : Parent_ProcessID=2 : Average_Running_Time=.01431505237300704486 : Nice_value=  0
+ProcessID=503 : Parent_ProcessID=1 : Average_Running_Time=.32958623870967741935 : Nice_value=  0
+ProcessID=505 : Parent_ProcessID=503 : Average_Running_Time=.20425550393837373858 : Nice_value=  0
+ProcessID=51 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=  5
+ProcessID=5119 : Parent_ProcessID=2 : Average_Running_Time=.04503688229428004576 : Nice_value=-20
+ProcessID=5129 : Parent_ProcessID=2 : Average_Running_Time=.08029563317403665839 : Nice_value=  0
+ProcessID=52 : Parent_ProcessID=2 : Average_Running_Time=.62378754848866498740 : Nice_value= 19
+ProcessID=529 : Parent_ProcessID=2 : Average_Running_Time=.00932450000000000000 : Nice_value=  -
+ProcessID=53 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=54 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=55 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=559 : Parent_ProcessID=503 : Average_Running_Time=2.37924103225806451612 : Nice_value=  0
+ProcessID=56 : Parent_ProcessID=2 : Average_Running_Time=.14697698941798941798 : Nice_value=  -
+ProcessID=565 : Parent_ProcessID=1 : Average_Running_Time=1.02185642339832869080 : Nice_value=  0
+ProcessID=568 : Parent_ProcessID=565 : Average_Running_Time=.12760125000000000000 : Nice_value=  0
+ProcessID=582 : Parent_ProcessID=1 : Average_Running_Time=.09589606058613563779 : Nice_value=  0
+ProcessID=583 : Parent_ProcessID=559 : Average_Running_Time=.45672229694323144104 : Nice_value=  0
+ProcessID=59 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=597 : Parent_ProcessID=565 : Average_Running_Time=.10785803930131004366 : Nice_value=  0
+ProcessID=598 : Parent_ProcessID=597 : Average_Running_Time=.10411056479252842915 : Nice_value=  0
+ProcessID=6 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=60 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=61 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=612 : Parent_ProcessID=565 : Average_Running_Time=.13687765606096315500 : Nice_value=  0
+ProcessID=617 : Parent_ProcessID=565 : Average_Running_Time=.21724496535118628141 : Nice_value= 19
+ProcessID=62 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=623 : Parent_ProcessID=565 : Average_Running_Time=.13150329961089494163 : Nice_value=  0
+ProcessID=63 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=  -
+ProcessID=631 : Parent_ProcessID=565 : Average_Running_Time=.06194550426136363636 : Nice_value=  0
+ProcessID=64 : Parent_ProcessID=2 : Average_Running_Time=.02182873530703453977 : Nice_value=-20
+ProcessID=640 : Parent_ProcessID=565 : Average_Running_Time=.20627246153846153846 : Nice_value=  0
+ProcessID=643 : Parent_ProcessID=1 : Average_Running_Time=.17329289443742098609 : Nice_value=  0
+ProcessID=653 : Parent_ProcessID=631 : Average_Running_Time=.21260522222222222222 : Nice_value=  0
+ProcessID=66 : Parent_ProcessID=2 : Average_Running_Time=.01449033333333333333 : Nice_value=  0
+ProcessID=665 : Parent_ProcessID=1 : Average_Running_Time=.33611225274725274725 : Nice_value=  1
+ProcessID=67 : Parent_ProcessID=2 : Average_Running_Time=.00773750000000000000 : Nice_value=-20
+ProcessID=674 : Parent_ProcessID=1 : Average_Running_Time=.32295509224137931034 : Nice_value=  0
+ProcessID=675 : Parent_ProcessID=565 : Average_Running_Time=.13592031946618337589 : Nice_value=  0
+ProcessID=677 : Parent_ProcessID=565 : Average_Running_Time=.17583201648778421126 : Nice_value=  0
+ProcessID=678 : Parent_ProcessID=565 : Average_Running_Time=.35047207645996951664 : Nice_value=  0
+ProcessID=68 : Parent_ProcessID=2 : Average_Running_Time=.00839575000000000000 : Nice_value=  -
+ProcessID=69 : Parent_ProcessID=2 : Average_Running_Time=.00627520000000000000 : Nice_value=  -
+ProcessID=697 : Parent_ProcessID=1 : Average_Running_Time=.86620907345454545454 : Nice_value=  0
+ProcessID=7 : Parent_ProcessID=2 : Average_Running_Time=0 : Nice_value=-20
+ProcessID=70 : Parent_ProcessID=2 : Average_Running_Time=.00674400000000000000 : Nice_value=-20
+ProcessID=72 : Parent_ProcessID=2 : Average_Running_Time=.04266865834529423826 : Nice_value=  0
+ProcessID=725 : Parent_ProcessID=565 : Average_Running_Time=.61965831559449532051 : Nice_value=  0
+ProcessID=73 : Parent_ProcessID=2 : Average_Running_Time=.06294238135593220338 : Nice_value=  0
+ProcessID=739 : Parent_ProcessID=565 : Average_Running_Time=.32062763157894736842 : Nice_value=  0
+ProcessID=74 : Parent_ProcessID=2 : Average_Running_Time=.01964150000000000000 : Nice_value=-20
+ProcessID=75 : Parent_ProcessID=2 : Average_Running_Time=.01212950000000000000 : Nice_value=  0
+ProcessID=76 : Parent_ProcessID=2 : Average_Running_Time=.00405200000000000000 : Nice_value=-20
+ProcessID=765 : Parent_ProcessID=565 : Average_Running_Time=.10610913875315922493 : Nice_value=  0
+ProcessID=767 : Parent_ProcessID=565 : Average_Running_Time=.07899155423122765196 : Nice_value=  0
+ProcessID=768 : Parent_ProcessID=565 : Average_Running_Time=.08937898499310637395 : Nice_value=  0
+ProcessID=769 : Parent_ProcessID=565 : Average_Running_Time=.09336901530918551130 : Nice_value=  0
+ProcessID=77 : Parent_ProcessID=2 : Average_Running_Time=.01319991666666666666 : Nice_value=  0
+ProcessID=770 : Parent_ProcessID=565 : Average_Running_Time=.11076612568398013300 : Nice_value=  0
+ProcessID=771 : Parent_ProcessID=565 : Average_Running_Time=.09837990864740769083 : Nice_value=  0
+ProcessID=772 : Parent_ProcessID=565 : Average_Running_Time=.08173517713644707322 : Nice_value=  0
+ProcessID=78 : Parent_ProcessID=2 : Average_Running_Time=.00485950000000000000 : Nice_value=-20
+ProcessID=781 : Parent_ProcessID=565 : Average_Running_Time=.21372115092592592592 : Nice_value=-11
+ProcessID=79 : Parent_ProcessID=2 : Average_Running_Time=.08977006293108903372 : Nice_value=  0
+ProcessID=815 : Parent_ProcessID=781 : Average_Running_Time=.92173840000000000000 : Nice_value=  0
+ProcessID=82 : Parent_ProcessID=2 : Average_Running_Time=.01183550000000000000 : Nice_value=-20
+ProcessID=827 : Parent_ProcessID=2 : Average_Running_Time=.02921050000000000000 : Nice_value=-10
+ProcessID=84 : Parent_ProcessID=2 : Average_Running_Time=.02973811582557569818 : Nice_value=-20
+ProcessID=85 : Parent_ProcessID=2 : Average_Running_Time=.00613350000000000000 : Nice_value=-20
+ProcessID=874 : Parent_ProcessID=565 : Average_Running_Time=.20272680454545454545 : Nice_value=-11
+ProcessID=875 : Parent_ProcessID=565 : Average_Running_Time=.46935833876221498371 : Nice_value=-11
+ProcessID=897 : Parent_ProcessID=1 : Average_Running_Time=.48800840000000000000 : Nice_value=  0
+ProcessID=9 : Parent_ProcessID=2 : Average_Running_Time=.00851700000000000000 : Nice_value=-20
+ProcessID=907 : Parent_ProcessID=565 : Average_Running_Time=.20026321739130434782 : Nice_value=  0
+ProcessID=909 : Parent_ProcessID=565 : Average_Running_Time=.07405565777962924390 : Nice_value=  0
+ProcessID=93 : Parent_ProcessID=2 : Average_Running_Time=.00495450000000000000 : Nice_value=-20
+ProcessID=960 : Parent_ProcessID=565 : Average_Running_Time=1.11842884667904225529 : Nice_value=  0
+ProcessID=964 : Parent_ProcessID=565 : Average_Running_Time=.13714246061154837361 : Nice_value=  0
+ProcessID=980 : Parent_ProcessID=565 : Average_Running_Time=.10210344562920268972 : Nice_value=  0
